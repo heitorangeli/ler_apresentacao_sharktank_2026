@@ -1,1 +1,1 @@
-# Ler_CronoSesi_2026
+# Projeto apresentado à matéria de Levantamento de Requisitos, no curso de Desenvolvimento de Sistemas
